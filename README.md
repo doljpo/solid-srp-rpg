@@ -1,4 +1,7 @@
 # 🧙‍♂️ SOLID RPG – Princípio SRP na Prática
+![SOLID Principles](https://img.shields.io/badge/SOLID-Principles-blueviolet?style=for-the-badge&logo=codeforces)
+![Single Responsibility Principle](https://img.shields.io/badge/SRP-Single%20Responsibility%20Principle-success?style=for-the-badge&logo=dotnet)
+![Status](https://img.shields.io/badge/Status-Completo-brightgreen?style=for-the-badge&logo=github)
 
 Este repositório demonstra na prática o **Princípio da Responsabilidade Única (SRP – Single Responsibility Principle)**, usando um cenário de criação de personagens em um jogo de RPG.
 
