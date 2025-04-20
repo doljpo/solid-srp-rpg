@@ -52,3 +52,37 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+
+## Ignore arquivos de build e sistema
+bin/
+obj/
+*.user
+*.suo
+*.log
+
+## Ignore arquivos de IDE
+.vscode/
+.idea/
+*.swp
+*.tmp
+
+## Ignore configurações específicas do Rider/VisualStudio
+*.DotSettings.user
+
+## Ignore pastas de pacotes
+packages/
+*.nupkg
+*.snupkg
+
+## Dotnet tools
+/.tools/
+
+# Mac/Linux
+.DS_Store
+/solid-srp-rpg/obj/Debug/net8.0/solid-srp-rpg.AssemblyInfo.cs
+/.vs/solid-srp-rpg/FileContentIndex/19a21d03-93cb-4eba-89ac-ae49127e97b7.vsidx
+/.vs/solid-srp-rpg/FileContentIndex/92a1c4d2-4e06-4c13-a1ff-343748b824ee.vsidx
+/.vs/solid-srp-rpg/FileContentIndex/dfab0d23-5569-4e9b-988e-41d4aa5481a9.vsidx
+/solid-srp-rpg/obj/Debug/net8.0/solid-srp-rpg.AssemblyInfo.cs
+/solid-srp-rpg/obj/Debug/net8.0/solid-srp-rpg.AssemblyInfoInputs.cache
+/.vs
